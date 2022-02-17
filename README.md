@@ -1,4 +1,4 @@
-# Bridge between python and the Trans Lasso code written in R
+## Bridge between Python and the Trans Lasso code written in R
 - The R code for Trans Lasso is the author's original work.
 
 ### Python interface used to wrap the R code
