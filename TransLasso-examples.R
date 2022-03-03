@@ -1,3 +1,4 @@
+#ali added a comment
 library(mvtnorm)
 ###An example
 ##coefficient generating functions used in the simulation
